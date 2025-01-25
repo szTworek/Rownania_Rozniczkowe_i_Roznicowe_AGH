@@ -1,0 +1,2 @@
+# szTworek-Rownania_Rozniczkowe_i_Roznicowe_AGH
+Zadanie obliczeniowe wykonane podczas realizowania przedmiotu Równania Różniczkowe i Różnicowe
